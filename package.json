@@ -17,6 +17,7 @@
     "react-scripts": "4.0.3",
     "redux": "^4.1.1",
     "redux-logger": "^3.0.6",
+    "redux-persist": "^6.0.0",
     "uuid": "^8.3.2",
     "web-vitals": "^1.1.2"
   },
@@ -57,5 +58,18 @@
   "lint-staged": {
     "*.{js, jsx}": "eslint --cache --fix",
     "*.{js,jsx,css,md, scss}": "prettier --write"
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuragms/goit-react-hw-06-hooks-phonebook-redux--toolkit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuragms/goit-react-hw-06-hooks-phonebook-redux--toolkit/issues"
+  },
+  "homepage": "https://github.com/yuragms/goit-react-hw-06-hooks-phonebook-redux--toolkit#readme"
 }
