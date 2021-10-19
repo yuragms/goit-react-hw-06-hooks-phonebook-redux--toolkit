@@ -25,6 +25,7 @@ function Form ({items, onSubmit}) {
           break;
 
   default: return;
+
     }
   };
 
